@@ -1,0 +1,21 @@
+#h1 {
+    font-family: 'Libre Baskerville', sansserif;
+}
+
+html {
+    background: black;
+    color: white;
+    text-align: center;
+}
+
+#cat {
+    border: solid white;
+    border-width: 5px;
+    margin-left: 400px;
+    margin-top: 25px;
+}
+
+#box1 {
+    width: 50px;
+    margin-left: 25px;
+}
